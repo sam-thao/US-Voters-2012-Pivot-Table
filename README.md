@@ -39,8 +39,4 @@ Observe the percentage of 18-24 year old voters, noting those below 10% in speci
 Bring "State" back as a primary row dimension for granular analysis.
 Reformat "Confirmed Voters2" as a percentage of the state population.
 Identify states where younger voters contribute less than 10% to the overall turnout.
-Summary:
 
-## This analysis provides a framework for exploring 2012 voter data and uncovering fascinating trends related to turnout across states and demographic groups. By manipulating the data through pivot tables and calculated fields, we can gain valuable insights into voting patterns and inform future outreach efforts or policy initiatives.
-
-## Feel free to adapt and expand this framework to address additional research questions or delve deeper into specific aspects of the data. By applying analytical techniques and drawing informed conclusions, we can gain a clearer understanding of voter behavior and ultimately strengthen our democratic processes.
