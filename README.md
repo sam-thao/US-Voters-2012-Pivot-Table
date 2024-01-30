@@ -40,14 +40,3 @@ Bring "State" back as a primary row dimension for granular analysis.
 Reformat "Confirmed Voters2" as a percentage of the state population.
 Identify states where younger voters contribute less than 10% to the overall turnout.
 
-## Additional Questions
-
-## Using the PivotTable created in the U.S. Voters case study, complete the following:
-1.	How many states had a Voter Population % below 55%? Which states?
-
-2.	How many confirmed voters in California were over 65 years old in 2012? What percentage does that represent out of the total confirmed voters in California? What percentage out of the confirmed voters in the entire country?
-
-3.	Show both Citizen Population and Confirmed Voters by Age, as % of Column Total. What percentage of the citizen population do 45- to 64-year-olds represent? What percentage of the confirmed voter population?  
-
-
-
